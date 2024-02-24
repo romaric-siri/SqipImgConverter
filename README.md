@@ -1,6 +1,3 @@
-Sure, here's a basic README for your project:
-
-```markdown
 # Image to Placeholder Converter using Sqip
 
 This project provides a PHP class for converting images to SVG placeholders using Sqip.
@@ -47,4 +44,3 @@ try {
 ## License
 
 This project is licensed under the MIT License.
-```
